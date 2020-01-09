@@ -13,7 +13,7 @@ public static void main(String[] args) {
 	 return sauce;
  }
  void setMeat(String meat){
-	 
+	 this.meat=meat;
  }
  void setSauce(String sauce){
 	 
