@@ -17,6 +17,11 @@ void setName(String name) {
 void setSuperpower(String Superpower) {
 	this.superpower=superpower;
 }
+	 void toString() {
+		
+	System.out.println();
+	
+}
 }
 
 	
