@@ -10,5 +10,8 @@ Person Mike=new Person();
 joe.setSuperpower("yy");
 john.setSuperpower("ii");
 Mike.setSuperpower("oo");
+System.out.println(joe.toString());
+System.out.println(john.toString());
+System.out.println(Mike.toString());
 }
 }

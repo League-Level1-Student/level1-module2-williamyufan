@@ -14,14 +14,13 @@ String getSuperpower() {
 void setName(String name) {
 		this.name=name;
 }
-void setSuperpower(String Superpower) {
+void setSuperpower(String superpower) {
 	this.superpower=superpower;
 }
-	 void toString() {
-		
-	System.out.println();
-	
+public String toString() {
+	return name + "has the superpower of" + superpower ;
 }
+	
 }
 
 	
